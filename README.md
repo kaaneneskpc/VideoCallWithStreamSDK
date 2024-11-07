@@ -15,9 +15,7 @@ Stream's platform empowers developers with the flexibility and scalability they 
 
 - ### You can also watch the video for how to implement sdk to your project
 
-<p align="center" width="%100">
-    <img width="100%" src="https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28"> 
-</p>
+https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28 
 
 ## App Contents
 ### All Screens
