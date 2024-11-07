@@ -187,6 +187,6 @@ Jetpack Compose for the modern UI toolkit.
 # Contact
 For questions or suggestions, feel free to reach out:
 
-Email: <a href="kaaneneskpc1@gmail.com">Stream</a>
-GitHub: <a href="https://www.github.com/kaaneneskpc">kaaneneskpc</a>
+<ul>Email: <a href="mailto:kaaneneskpc1@gmail.com">Kaan Enes KAPICI</a></ul>
+<ul>GitHub: <a href="https://www.github.com/kaaneneskpc">kaaneneskpc</a></ul>
 
