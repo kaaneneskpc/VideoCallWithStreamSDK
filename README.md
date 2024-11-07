@@ -6,13 +6,11 @@ A Jetpack Compose video calling app utilizing the Stream SDK to enable real-time
 This project showcases how to build a video calling application in Jetpack Compose using the Stream SDK. It leverages Stream's powerful APIs to provide seamless video communication and chat features within the app.
 
 # Features
-<li>
-<ul>Real-time video calling</ul>
-<ul>In-app chat messaging</ul>
-<ul>Toggle camera on/off</ul>
-<ul>User-friendly UI with Jetpack Compose</ul>
-<ul>Easy integration with Stream SDK</ul>
-</li>
+<li>Real-time video calling</li>
+<li>In-app chat messaging</li>
+<li>Toggle camera on/off</li>
+<li>User-friendly UI with Jetpack Compose</li>
+<li>Easy integration with Stream SDK</li>
 
 
 </br>
