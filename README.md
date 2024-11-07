@@ -10,7 +10,7 @@
 Stream's platform empowers developers with the flexibility and scalability they need to build rich conversations and engaging communities Go to the link and get your key with "Create App". https://getstream.io
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/2895049a-08cb-4b56-88f4-4d0c36a722cf"> 
+    <img width="100%" src="https://github.com/user-attachments/assets/a3c4a73c-55c3-430f-9617-ededbc5e6b8e"> 
 </p>
 
 ## App Contents
