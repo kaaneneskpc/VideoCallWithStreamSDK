@@ -19,6 +19,7 @@ This project showcases how to build a video calling application in Jetpack Compo
 | Chat Screen | Camera On | Camera Off |
 | --------- | ------ | ------ |
 |<img src="https://github.com/user-attachments/assets/d06ba978-7215-41e1-bfab-072dc3497cca" width = "1400px"/>|<img src="https://github.com/user-attachments/assets/f50323f8-7f8d-46f0-b719-2f8fefdf4c27" width = "1400px"/>|<img src="https://github.com/user-attachments/assets/1a77ce91-8f0f-4878-90be-e3cf1bff2b28" width = "1400px"/>|
+
 </br>
 
 # Prerequisites
@@ -27,22 +28,15 @@ This project showcases how to build a video calling application in Jetpack Compo
 <li>Kotlin 1.8 or higher</li>
 <li>An account on <a href="https://getstream.io/">Stream</a> to obtain API keys</li>
 
-## Stream SDK Implementation
-
-- ### APIs and SDKs to Build In-App Chat Video & Feeds Faster.
-Stream's platform empowers developers with the flexibility and scalability they need to build rich conversations and engaging communities Go to the link and get your key with "Start Coding Free". https://getstream.io
-
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/a3c4a73c-55c3-430f-9617-ededbc5e6b8e"> 
-</p>
-
-- ### You can also watch the video for how to implement sdk to your project
-
-https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28 
-
-
+</br>
 
 ## Installation
+
+Clone the repository
+```kotlin
+git clone https://github.com/your_username/your_repository.git
+```
+Open In Android Studio, Click on File > Open and select the cloned project directory.
 
 Add the dependency to your `libs.versions.toml` file:
 
@@ -169,3 +163,30 @@ dependencies {
 }
 
 ```
+
+## Stream SDK Implementation
+
+- ### APIs and SDKs to Build In-App Chat Video & Feeds Faster.
+Stream's platform empowers developers with the flexibility and scalability they need to build rich conversations and engaging communities Go to the link and get your key with "Start Coding Free". https://getstream.io
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/user-attachments/assets/a3c4a73c-55c3-430f-9617-ededbc5e6b8e"> 
+</p>
+
+- ### You can also watch the video for how to implement sdk to your project
+
+https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28 
+
+# License
+This project is licensed under the MIT License.
+
+# Acknowledgments
+Stream SDK for providing the video and chat services.
+Jetpack Compose for the modern UI toolkit.
+
+# Contact
+For questions or suggestions, feel free to reach out:
+
+Email: <a href="kaaneneskpc1@gmail.com">Stream</a>
+GitHub: <a href="https://www.github.com/kaaneneskpc">kaaneneskpc</a>
+
