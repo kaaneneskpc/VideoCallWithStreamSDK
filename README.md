@@ -1,6 +1,6 @@
 # Video Call App with Stream SDK
 
-- ###  A Jetpack Compose video calling app utilizing the Stream SDK to enable real-time video and chat functionalities. This app demonstrates how to integrate Stream's Video SDK into an Android application using modern development practices.
+A Jetpack Compose video calling app utilizing the Stream SDK to enable real-time video and chat functionalities. This app demonstrates how to integrate Stream's Video SDK into an Android application using modern development practices.
 
 </br>
 
