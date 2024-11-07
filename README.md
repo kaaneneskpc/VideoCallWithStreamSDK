@@ -13,11 +13,17 @@ Stream's platform empowers developers with the flexibility and scalability they 
     <img width="100%" src="https://github.com/user-attachments/assets/a3c4a73c-55c3-430f-9617-ededbc5e6b8e"> 
 </p>
 
+- ### You can also watch the video for how to implement sdk to your project
+
+<p align="center" width="%100">
+https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28
+</p>
+
 ## App Contents
 ### All Screens
 | Chat Screen | Camera On | Camera Off |
 | --------- | ------ | ------ |
-|<img src="https://github.com/user-attachments/assets/d06ba978-7215-41e1-bfab-072dc3497cca" width = "1400px"/>|<img src="https://github.com/user-attachments/assets/f50323f8-7f8d-46f0-b719-2f8fefdf4c27"  width = "1400px"/>|<img src="https://github.com/user-attachments/assets/1a77ce91-8f0f-4878-90be-e3cf1bff2b28"  width = "1400px"/>|
+|<img src="https://github.com/user-attachments/assets/d06ba978-7215-41e1-bfab-072dc3497cca" width = "1400px"/>|<img src="https://github.com/user-attachments/assets/f50323f8-7f8d-46f0-b719-2f8fefdf4c27" width = "1400px"/>|<img src="https://github.com/user-attachments/assets/1a77ce91-8f0f-4878-90be-e3cf1bff2b28" width = "1400px"/>|
 </br>
 
 ## Installation
