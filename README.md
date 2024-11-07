@@ -34,7 +34,7 @@ This project showcases how to build a video calling application in Jetpack Compo
 
 Clone the repository
 ```kotlin
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/kaaneneskpc/VideoCallWithStreamSDK.git
 ```
 Open In Android Studio, Click on File > Open and select the cloned project directory.
 
