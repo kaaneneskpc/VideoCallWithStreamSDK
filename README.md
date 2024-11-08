@@ -178,7 +178,7 @@ Stream's platform empowers developers with the flexibility and scalability they 
 https://github.com/user-attachments/assets/553fedb3-2101-40cb-92b0-e2ce1152ed28 
 
 
-# Acknowledgments
+# Acknowledegments
 <a href="https://getstream.io">Stream SDK</a> for providing the video and chat services.
 Jetpack Compose for the modern UI toolkit.
 
