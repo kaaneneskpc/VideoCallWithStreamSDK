@@ -22,11 +22,12 @@ This project showcases how to build a video calling application in Jetpack Compo
 
 </br>
 
-# Prerequisites
-<li>Android Studio Bumblebee or later</li>
-<li>Minimum SDK level 24</li>
-<li>Kotlin 1.8 or higher</li>
-<li>An account on <a href="https://getstream.io/">Stream</a> to obtain API keys</li>
+# Techs
+<li><strong>Kotlin:</strong> A modern and secure programming language for Android app development.</li>
+<li><strong>Jetpack Compose:</strong>  Declarative UI development library.</li>
+<li><strong>MVVM (Model-View-ViewModel):</strong>  A flexible and scalable structure for application architecture.</li>
+<li><strong>Navigation Component:</strong>  Structural component that facilitates navigation within the application.</li>
+<li><strong>Material Design 3:</strong>  Modern and aesthetic user interface designs.</li>
 
 </br>
 
