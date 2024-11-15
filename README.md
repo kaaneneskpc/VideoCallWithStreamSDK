@@ -22,15 +22,6 @@ This project showcases how to build a video calling application in Jetpack Compo
 
 </br>
 
-# Techs
-<li><strong>Kotlin:</strong> A modern and secure programming language for Android app development.</li>
-<li><strong>Jetpack Compose:</strong>  Declarative UI development library.</li>
-<li><strong>MVVM (Model-View-ViewModel):</strong>  A flexible and scalable structure for application architecture.</li>
-<li><strong>Navigation Component:</strong>  Structural component that facilitates navigation within the application.</li>
-<li><strong>Material Design 3:</strong>  Modern and aesthetic user interface designs.</li>
-
-</br>
-
 ## Installation
 
 Clone the repository
